@@ -121,10 +121,10 @@ Transformando datos en decisiones con rigor analítico y visión de negocio.
 ## 🤝 Conecta conmigo
 
 <p>
-  <a href="[TU_LINKEDIN](https://www.linkedin.com/in/matias-caleb-kusa-99a266166/es/)">
+  <a href="(https://www.linkedin.com/in/matias-caleb-kusa-99a266166/es/)">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:matiaskusa91@gmail">
     <img src="https://img.shields.io/badge/Email-Contacto-2E4057?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
