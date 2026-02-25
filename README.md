@@ -1,6 +1,6 @@
 # matiaskuas91-sketch
 Presentación
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
+<h1 align="center">👋 Hola, soy Matias Kusa</h1>
 <h3 align="center">Auditor Interno | Data Analytics en formación | Data-driven mindset 📊</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Transformando datos en decisiones con rigor analítico y visión de negocio.
 🔹 Fuerte orientación a **análisis riguroso, control y mejora de procesos**
 🔹 Combinando **visión de negocio + capacidades técnicas**
 
-> 🟢 **Estado:** Abierto a nuevas oportunidades en analítica de datos (sin búsqueda activa)
+> 🟢 **Estado:** Abierto a nuevas oportunidades en análisis de datos
 
 ---
 
@@ -121,7 +121,7 @@ Transformando datos en decisiones con rigor analítico y visión de negocio.
 ## 🤝 Conecta conmigo
 
 <p>
-  <a href="TU_LINKEDIN">
+  <a href="[TU_LINKEDIN](https://www.linkedin.com/in/matias-caleb-kusa-99a266166/es/)">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:TU_EMAIL">
