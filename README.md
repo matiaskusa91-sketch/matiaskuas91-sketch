@@ -130,7 +130,3 @@ Transformando datos en decisiones con rigor analítico y visión de negocio.
 </p>
 
 ---
-
-<p align="center">
-  <sub>README diseñado con enfoque profesional, sobrio y orientado a reclutadores.</sub>
-</p>
