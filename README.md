@@ -1,6 +1,4 @@
 # matiaskuas91-sketch
-# ✨ Matias Kusa — Auditor Interno | Data Analytics en formación
-
 <h1 align="center">👋 ¡Hola! Soy Matias Kusa</h1>
 <h3 align="center">Auditor Interno · Data Analytics · Enfoque Data‑Driven 📊</h3>
 
