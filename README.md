@@ -1,4 +1,3 @@
-# matiaskuas91-sketch
 <h1 align="center">👋 ¡Hola! Soy Matias Kusa</h1>
 <h3 align="center">Auditor Interno · Data Analytics · Enfoque Data‑Driven 📊</h3>
 
